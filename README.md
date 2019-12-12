@@ -1,0 +1,1 @@
+# checkio-mission-rectangles-on-a-table
